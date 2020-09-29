@@ -1,0 +1,31 @@
+{
+  "name": "collab-test",
+  "version": "1.0.0",
+  "description": "Um bot para fazer seu trabalho show de BOLETA",
+  "main": "phantomjs node index.js",
+  "scripts": {
+    "daemon": "forever start index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pega na minha !",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.20",
+    "chromedriver": "^85.0.0",
+    "date-and-time": "^0.14.1",
+    "forever": "^3.0.2",
+    "node-cron": "^2.0.3",
+    "node-notifier": "^8.0.0",
+    "node-schedule": "^1.3.2",
+    "nodemailer": "^6.4.11",
+    "phantomjs": "^2.1.7",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
