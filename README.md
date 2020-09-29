@@ -2,7 +2,7 @@
 
 * Trabalha com os dias úteis
 * Verifica se já trabalhou
-* Não repete tarefas ja feitas
+* Não repete tarefas já feitas
 * Trabalha nos períodos desejados
 
 
