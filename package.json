@@ -1,5 +1,5 @@
 {
-  "name": "collab-test",
+  "name": "bot_scheduler",
   "version": "1.0.0",
   "description": "Um bot para fazer seu trabalho show de BOLETA",
   "main": "phantomjs node index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Pega na minha !",
+  "author": "Renan Soares Fernandes",
   "license": "ISC",
   "dependencies": {
     "blessed": "^0.1.81",
